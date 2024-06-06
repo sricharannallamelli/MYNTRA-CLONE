@@ -1,6 +1,6 @@
 # Myntra Clone Front-end
 
-This project is a front-end clone of Myntra, an online fashion and lifestyle retailer. It replicates the user interface and functionalities of Myntra's website for browsing and purchasing fashion products.
+This project is a full-stack clone of Myntra, an online fashion and lifestyle retailer. It replicates the user interface and functionalities of Myntra's website for browsing and purchasing fashion products.
 
 ## Project Structure
 
@@ -19,6 +19,11 @@ This project is a front-end clone of Myntra, an online fashion and lifestyle ret
 - HTML
 - CSS
 - JavaScript
+- react.js
+- redux.js
+- node.js
+- express.js
+- mongodb
 
 ## Usage
 
